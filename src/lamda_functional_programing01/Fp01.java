@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Fp01 {
+
     /*
     1- Lamda (Functional Programming) Java 8 ile kullanilmaya baslamistir.
     2- Functional Programming de "Ne yapilacak" (What to do) uzerine yogunlasilir.

@@ -12,6 +12,7 @@ public class Fp01 {
     3- Functional Programming Arrays ve Collections ile kullanilir.
     4- entrySet() metodu ile Map,Set e donusturulerek Functional Programming de kullanilabilir.
     */
+
     public static void main(String[] args) {
         List<Integer>list=new ArrayList<>();
         list.add(8);

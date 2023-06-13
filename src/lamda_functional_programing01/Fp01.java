@@ -27,6 +27,7 @@ public class Fp01 {
         listElemanlariniYazdirStructured(list);
         listElemanlariniYazdirFunctional(list);
     }
+
     //1) Ardisik list elementlerini ayni satirda aralarinda bosluk bırakarak yazdiran bir method olusturun(Structured)
 
     public static void listElemanlariniYazdirStructured(List<Integer> list){//Structurud normal

@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp02 {
     public static void main(String[] args) {
+
         //2) Cift list elemanlerini ayni satirda aralarinda bosluk bırakarak yazdiran bir metohod olusturun(Structured)
 
         ArrayList<Integer>list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));

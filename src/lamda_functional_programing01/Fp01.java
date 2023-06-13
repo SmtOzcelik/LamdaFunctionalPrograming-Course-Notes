@@ -37,6 +37,7 @@ public class Fp01 {
             System.out.print(w+" ");
         }
     }
+
     //1) Ardisik list elementlerini ayni satirda aralarinda bosluk bırakarak yazdiran bir method olusturun(Functional)
 
     public static void listElemanlariniYazdirFunctional(List<Integer>list){//Functional Lamda ile

@@ -22,6 +22,7 @@ public class Fp02 {
             }
         }
     }
+
     //2) Cift list elemanlerini ayni satirda aralarinda bosluk bırakarak yazdiran bir metohod olusturun(Functional)
     public static void ciftElemalariYazdirFunctional(List<Integer>list){
 

@@ -16,6 +16,7 @@ public class Fp03 {
         tekElemanlarinKareleriniYazdirFunctional(list);//25 49 9
 
     }
+
     public static void tekElemanlarinKareleriniYazdirFunctional(List<Integer>list){
 
         list.stream().filter(t->t%2==1).map(t->t*t).forEach(t-> System.out.print(t+" "));

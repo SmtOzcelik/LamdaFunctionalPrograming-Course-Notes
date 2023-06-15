@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp04 {
     public static void main(String[] args) {
+
         //4) Tek list elemanlarin küplerini tekrarsiz olarak ayni satirda bir bosluk birakarak
         //   yazdiran bir method olusturun
 

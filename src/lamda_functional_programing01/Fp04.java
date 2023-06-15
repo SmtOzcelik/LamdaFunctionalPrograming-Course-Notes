@@ -17,5 +17,6 @@ public class Fp04 {
     public static void tekrarsizTekElemanlarinKupunuYazdir(List<Integer>list){
 
         list.stream().distinct().filter(t->t%2==1).map(t->t*t*t).forEach(t-> System.out.print(t+" "));
+
     }
 }

@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Fp05 {
+
     public static void main(String[] args) {
 
         //5) Tekrarsiz cift elemanlarin kareleri toplamini hesaplayan bir method olusturun

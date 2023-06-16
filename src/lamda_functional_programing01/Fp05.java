@@ -17,7 +17,6 @@ public class Fp05 {
     public static void tekrarsizCiftElemanlarinKareToplami(List<Integer>list){
 
         Integer toplam=list.stream().distinct().filter(t->t%2==0).map(t->t*t).reduce(0,(t,u)->t+u);
-
         System.out.println(toplam);
     }
 }

@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp05 {
     public static void main(String[] args) {
+
         //5) Tekrarsiz cift elemanlarin kareleri toplamini hesaplayan bir method olusturun
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(2,9,4,2,11,9,4,7,11));

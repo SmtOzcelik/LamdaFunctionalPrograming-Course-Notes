@@ -12,7 +12,6 @@ public class Fp05 {
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(2,9,4,2,11,9,4,7,11));
 
         tekrarsizCiftElemanlarinKareToplami(list); //20
-
     }
     public static void tekrarsizCiftElemanlarinKareToplami(List<Integer>list){
 

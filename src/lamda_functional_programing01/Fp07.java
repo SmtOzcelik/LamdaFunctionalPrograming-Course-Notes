@@ -26,5 +26,6 @@ public class Fp07 {
 
        Integer max=list.stream().distinct().sorted().reduce(Integer.MIN_VALUE,(t,u)->u);
             System.out.println(max);
+
         }
 }

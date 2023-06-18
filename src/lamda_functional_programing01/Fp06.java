@@ -17,6 +17,7 @@ public class Fp06 {
     public static void tekrarsizCiftElemanlarinKupununCarpiminiYazdir(List<Integer>list){
 
         Integer carpim=list.stream().distinct().filter(t->t%2==0).map(t->t*t*t).reduce(1,(t,u)->t*u);
+
         System.out.println(carpim);
 
     }

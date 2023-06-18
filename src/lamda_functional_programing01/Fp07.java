@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp07 {
     public static void main(String[] args) {
+
         //7) List elemanlari arasindan en buyuk degeri bulan bir method olusturun
 
         // 1.yol

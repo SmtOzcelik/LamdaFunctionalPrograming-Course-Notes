@@ -26,7 +26,7 @@ public class Fp07 {
         public static void getMaxEleman02(List<Integer>list){
 
        Integer max=list.stream().distinct().sorted().reduce(Integer.MIN_VALUE,(t,u)->u);
-            System.out.println(max);
+       System.out.println(max);
 
         }
 }

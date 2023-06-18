@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp06 {
     public static void main(String[] args) {
+
         //6) Tekrarsiz cift elemanlarinin küpünün carpimini hesaplayan method olusturun.
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(2,9,4,2,11,9,4,7,11));

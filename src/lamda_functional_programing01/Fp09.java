@@ -21,7 +21,7 @@ public class Fp09 {public static void main(String[] args) {
     Integer min=list.stream().distinct().
             filter(t->t%2==0).filter(t-> t>7).
             reduce(Integer.MAX_VALUE,(t,u) -> t<u ? t:u);
-        System.out.println(min);
+    System.out.println(min);
     }
 
     // 2.yol

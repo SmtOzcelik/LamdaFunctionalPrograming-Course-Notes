@@ -10,6 +10,7 @@ public class Fp09 {public static void main(String[] args) {
     //9) List elemanlari arasindan 7 den buyuk cift , en kucuk degeri bulan bir method olusturun
 
     ArrayList<Integer> list=new ArrayList<>(Arrays.asList(2,9,12,2,11,9,4,7,18));
+
         getYedidenBuyukCiftMin1(list);//12
         getYedidenBuyukCiftMin2(list);//12
         getYedidenBuyukCiftMin3(list);//12

@@ -33,6 +33,7 @@ public class Fp09 {public static void main(String[] args) {
             reduce(Integer.MAX_VALUE,(t,u)->u);
         System.out.println(min);
     }
+
     // 3.yol
     public static void getYedidenBuyukCiftMin3(List<Integer>list){
     Integer min=list.stream().distinct().filter(t->t%2==0).filter(t->t>7).sorted().findFirst().get();

@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp08_Odev {
     public static void main(String[] args) {
+
         //List elemanlari arasindan en kucuk degeri bulan bir method olusturun
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(2,9,4,2,11,9,4,7,11));

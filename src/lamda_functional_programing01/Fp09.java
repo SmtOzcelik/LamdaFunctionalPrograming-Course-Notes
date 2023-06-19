@@ -26,6 +26,7 @@ public class Fp09 {public static void main(String[] args) {
 
     // 2.yol
     public static void getYedidenBuyukCiftMin2(List<Integer>list){
+
     Integer min=list.stream().distinct().
             filter(t->t%2==0).filter(t->t>7).
             sorted(Comparator.reverseOrder()).

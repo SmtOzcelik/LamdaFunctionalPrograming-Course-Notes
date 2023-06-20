@@ -22,5 +22,6 @@ public class Fp10 {
                 sorted(Comparator.reverseOrder()).
                 collect(Collectors.toList());
         System.out.println(sonuc);
+
     }
 }

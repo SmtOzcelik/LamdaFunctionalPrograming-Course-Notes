@@ -17,8 +17,6 @@ public class Fp01 {
        Ornegin bir Animal class imiz var ve bu class "eat()" methoduna sahip ==> "Animal :: eat"
      */
 
-
-
     public static void main(String[] args) {
         // 1) Ardisik list elementlerini ayni satirda aralarinda bosluk bırakarak
         //    yazdiran bir method olusturun(Functional ve method reference)

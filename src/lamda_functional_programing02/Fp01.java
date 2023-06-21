@@ -29,5 +29,6 @@ public class Fp01 {
     public static void listElemanlariniYazdirFunctional(List<Integer>list){
 
         list.stream().forEach(Utils::ayniSatirdaBosluklaYazdir);
+
     }
 }

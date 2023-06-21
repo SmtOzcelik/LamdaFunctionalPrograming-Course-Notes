@@ -18,6 +18,7 @@ public class Fp01 {
      */
 
     public static void main(String[] args) {
+
         // 1) Ardisik list elementlerini ayni satirda aralarinda bosluk bırakarak
         //    yazdiran bir method olusturun(Functional ve method reference)
 

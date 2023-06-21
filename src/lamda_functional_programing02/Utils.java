@@ -37,5 +37,6 @@ public class Utils {
     public static char ilkKarakteriniVer(String str){
 
         return str.charAt(0);
+
     }
 }

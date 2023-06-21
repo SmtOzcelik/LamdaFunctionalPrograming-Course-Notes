@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Fp01 {
+
     /*
     1- t -> "Logic" , (t,u) -> "Logic"
        Bu yapiya Lambda Expession

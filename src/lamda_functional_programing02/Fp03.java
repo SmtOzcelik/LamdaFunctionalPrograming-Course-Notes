@@ -12,6 +12,7 @@ public class Fp03 {
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         tekElemanlarinKareleriniYazdir(list);//81 17161 81
+
     }
 
     public static void tekElemanlarinKareleriniYazdir(List<Integer>list){

@@ -17,5 +17,6 @@ public class Fp03 {
     public static void tekElemanlarinKareleriniYazdir(List<Integer>list){
 
         list.stream().filter(Utils::tekElemanlariSec).map(Utils::karesiniAl).forEach(Utils::ayniSatirdaBosluklaYazdir);
+
     }
 }

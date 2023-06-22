@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp03 {
     public static void main(String[] args) {
+
         //3)Ardisik tek list elemanlarin karelerini ayni satirda aralarinda bosluk birakarak
         //  yazdiran bir method yaziniz
 

@@ -18,5 +18,6 @@ public class Fp04 {
 
                 list.stream().distinct().filter(Utils::tekElemanlariSec).
                 map(Utils::kupunuAl).forEach(Utils::ayniSatirdaBosluklaYazdir);
+
     }
 }

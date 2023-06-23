@@ -8,7 +8,7 @@ public class Fp04 {
     public static void main(String[] args) {
 
         //4) Tek list elemanlarin küplerini tekrarsiz olarak ayni satirda bir bosluk birakarak
-        //   yazdiran bir method olusturun
+        //   yazdiran bir method olusturun.
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         tekrarsizTekElemanlarinKupunuYazdir(list);//729 2248091

@@ -12,6 +12,7 @@ public class Fp04 {
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         tekrarsizTekElemanlarinKupunuYazdir(list);//729 2248091
+
     }
     public static void tekrarsizTekElemanlarinKupunuYazdir(List<Integer> list){
 

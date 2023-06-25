@@ -11,6 +11,7 @@ public class Fp05 {
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         tekrarsizCiftelemanlarinKareleriToplami(list);//168
+
     }
 
     public static void tekrarsizCiftelemanlarinKareleriToplami(List<Integer>list){

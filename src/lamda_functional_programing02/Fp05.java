@@ -18,5 +18,6 @@ public class Fp05 {
 
        Integer toplam= list.stream().distinct().filter(Utils::ciftElemanlariSec).map(Utils::karesiniAl).reduce(0,Math::addExact);
         System.out.println(toplam);
+
     }
 }

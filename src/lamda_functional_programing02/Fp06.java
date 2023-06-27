@@ -10,6 +10,7 @@ public class Fp06 {
         //6) Tekrarsiz cift elemanlarinin küpünün carpimini hesaplayan method olusturun.
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
+
         tekrarsizCiftElemanlarinKuplerininCarpimi(list);//4096000
 
     }

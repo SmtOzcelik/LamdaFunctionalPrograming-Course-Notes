@@ -17,5 +17,6 @@ public class Fp06 {
 
         Integer carpim=list.stream().distinct().filter(Utils::ciftElemanlariSec).map(Utils::kupunuAl).reduce(1,Math::multiplyExact);
         System.out.println(carpim);
+
     }
 }

@@ -11,6 +11,7 @@ public class Fp06 {
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         tekrarsizCiftElemanlarinKuplerininCarpimi(list);//4096000
+
     }
     public static void tekrarsizCiftElemanlarinKuplerininCarpimi(List<Integer>list){
 

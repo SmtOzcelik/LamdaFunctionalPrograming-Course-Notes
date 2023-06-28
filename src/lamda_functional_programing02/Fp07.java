@@ -11,7 +11,6 @@ public class Fp07 {
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         getMaxEleman(list);//131
-
     }
     public static void getMaxEleman(List<Integer>list){
 

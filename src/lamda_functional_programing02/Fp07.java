@@ -17,5 +17,6 @@ public class Fp07 {
 
         Integer max=list.stream().distinct().reduce(Integer.MIN_VALUE,Math::max);
         System.out.println(max);
+
     }
 }

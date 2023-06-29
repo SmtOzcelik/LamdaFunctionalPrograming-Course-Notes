@@ -16,5 +16,6 @@ public class Fp08 {
 
         Integer min=list.stream().distinct().reduce(Math::min).get();
         System.out.println(min);
+
     }
 }

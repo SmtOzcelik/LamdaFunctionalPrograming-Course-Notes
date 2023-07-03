@@ -16,5 +16,6 @@ public class Fp09 {
 
         Integer min = list.stream().distinct().filter(Utils::ciftElemanlariSec).filter(t->t>7).reduce(Math::min).get();
         System.out.println(min);
+
     }
 }

@@ -11,7 +11,6 @@ public class Fp09 {
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));
         yedidenBuyukCiftMin(list);//8
-
     }
     public static void yedidenBuyukCiftMin(List<Integer>list){
 

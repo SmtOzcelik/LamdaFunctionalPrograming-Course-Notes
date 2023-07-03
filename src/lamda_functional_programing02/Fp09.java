@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Fp09 {
     public static void main(String[] args) {
+
         //9) List elemanlari arasindan 7 den buyuk cift , en kucuk degeri bulan bir method olusturun
 
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(8,9,131,10,9,10,2,8));

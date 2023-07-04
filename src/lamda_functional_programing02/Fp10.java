@@ -21,5 +21,6 @@ public class Fp10 {
     List<Double> sonuc=list.stream().distinct().filter(t->t>5).map(Utils::yarisiniAl).
                 sorted(Comparator.reverseOrder()). collect(Collectors.toList());
         System.out.println(sonuc);
+
     }
 }

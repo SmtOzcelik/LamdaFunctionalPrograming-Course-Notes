@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 
 public class Fp10 {
     public static void main(String[] args) {
+
         //10) Ters siralama ile tekrarsiz ve 5 den buyuk elemanlarin
         //    yari degerlerini(elamanin ikiye bolum sonucu) bulan bir method list olusturun
 

@@ -26,6 +26,7 @@ public class Fp01 {
         list.stream().map(String::toUpperCase).forEach(Utils::ayniSatirdaBosluklaYazdir);
 
         }
+
     //2.yol
     public static void buyukHarfleYazdir2(List<String>list){
         list.replaceAll(String::toUpperCase);

@@ -19,7 +19,7 @@ public class Fp01 {
         System.out.println("");
         buyukHarfleYazdir2(list);
     }
-  //  1- ) Tüm elemanları büyük harf ile yazdıran bir method oluşturun.
+    //  1- ) Tüm elemanları büyük harf ile yazdıran bir method oluşturun.
     //1.yol
         public static void buyukHarfleYazdir(List<String>list){
 

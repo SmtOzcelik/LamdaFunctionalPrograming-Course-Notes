@@ -17,7 +17,6 @@ public class Fp03 {
     System.out.println(list);
     uzunlugaGoreTersYazdir(list);
 
-
 }
 // 3-) Elemanları uzunluklarına göre ters sıralayıp yazdıran bir method oluşturun.
 

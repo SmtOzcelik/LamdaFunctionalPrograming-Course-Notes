@@ -8,6 +8,7 @@ import java.util.List;
 
 public class Fp02 {
     public static void main(String[] args) {
+
         List<String> list=new ArrayList<>();
         list.add("Ali"); list.add("Ali"); list.add("Mark"); list.add("Amanda");
         list.add("Christopher"); list.add("Jackson"); list.add("Mariano");

@@ -18,6 +18,7 @@ public class Fp03 {
     uzunlugaGoreTersYazdir(list);
 
 }
+
 // 3-) Elemanları uzunluklarına göre ters sıralayıp yazdıran bir method oluşturun.
 
     public static void uzunlugaGoreTersYazdir(List<String>list){

@@ -22,5 +22,6 @@ public class Fp03 {
 
     public static void uzunlugaGoreTersYazdir(List<String>list){
     list.stream().sorted(Comparator.comparing(String::length).reversed()).forEach(Utils::ayniSatirdaBosluklaYazdir);
+
     }
 }

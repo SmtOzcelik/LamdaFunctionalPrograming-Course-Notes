@@ -16,7 +16,6 @@ public class Fp02 {
         System.out.println(list);
         uzunlugaGoreYazdir(list);
 
-
     }
     // 2-) Elemanları uzunluklarına göre sıralayıp yazdıran bir method oluşturun.
 

@@ -22,5 +22,6 @@ public class Fp02 {
     public static void uzunlugaGoreYazdir(List<String>list){
 
         list.stream().sorted(Comparator.comparing(String::length)).forEach(Utils::ayniSatirdaBosluklaYazdir);
+
     }
 }

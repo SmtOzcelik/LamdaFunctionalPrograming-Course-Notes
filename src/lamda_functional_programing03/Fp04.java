@@ -17,7 +17,6 @@ public class Fp04 {
         System.out.println(list);
         sonKaraktereGoreTekrarsizSiralaYazdir(list);
 
-
     }
   //  4-) Elemanları son karakterlerine göre sıralayıp tekrarsız yazdıran bir method oluşturun.
 

@@ -18,6 +18,7 @@ public class Fp05 {
         uzunlukVeIlkHarfeGoreSiralaYazdir(list);
 
     }
+
     /* 5) Elemanları önce uzunluklarına göre ve sonra ilk karakterine göre sıralayıp
     yazdıran bir method oluşturun.
      */

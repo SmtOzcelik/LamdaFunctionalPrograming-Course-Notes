@@ -22,6 +22,7 @@ public class Fp05 {
     /* 5) Elemanları önce uzunluklarına göre ve sonra ilk karakterine göre sıralayıp
     yazdıran bir method oluşturun.
      */
+
     public static void uzunlukVeIlkHarfeGoreSiralaYazdir(List<String> list){
 
         list.stream().sorted(Comparator.comparing(String::length).

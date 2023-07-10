@@ -21,6 +21,5 @@ public class Fp06 {
 
         list.removeIf(t->t.length()>5);
         System.out.println(list);
-
     }
 }

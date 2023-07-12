@@ -15,6 +15,7 @@ public class Fp07 {
         baslagiciAYadaSonuNOlaniSil01(list);
 
     }
+
     //7-) ‘A’, ‘a’ ile başlayan yada ‘N’, ‘n’ ile biten elemanları silen bir method oluşturun.
 
     public static void baslagiciAYadaSonuNOlaniSil01(List<String> list){

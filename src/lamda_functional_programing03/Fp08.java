@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Fp08 {
     public static void main(String[] args) {
+        // önemli
         List<String> list=new ArrayList<>();
         list.add("Ali"); list.add("Ali"); list.add("Mark"); list.add("Amanda");
         list.add("Christopher"); list.add("Jackson"); list.add("Mariano");

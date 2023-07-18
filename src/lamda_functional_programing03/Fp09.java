@@ -14,7 +14,6 @@ public class Fp09 {
         System.out.println(list);
         System.out.println(uzunlugu12denAzMi(list));
 
-
     }
     //9- ) Tüm elemanların uzunluklarının 12'den az olup olmadığını kontrol eden
     //    bir method oluşturun.
